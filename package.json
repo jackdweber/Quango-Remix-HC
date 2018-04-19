@@ -4,6 +4,7 @@
     "description": "Hot off the quango",
     "version": "0.0.1",
     "publisher": "brickandmortar",
+    "repository": "https://github.com/jackdweber/Quango-Remix-HC.git",
     "engines": {
         "vscode": "^1.22.0"
     },
