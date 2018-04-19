@@ -1,0 +1,22 @@
+{
+    "name": "quango-remix-hc",
+    "displayName": "Quango Remix HC",
+    "description": "Hot off the quango",
+    "version": "0.0.1",
+    "publisher": "brickandmortar",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quango Remix HC",
+                "uiTheme": "hc-black",
+                "path": "./themes/Quango Remix HC-color-theme.json"
+            }
+        ]
+    }
+}
